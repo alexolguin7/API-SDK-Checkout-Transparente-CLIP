@@ -8,8 +8,8 @@ Al usar el SDK de este api, la información de las tarjetas de crédito/debito, 
 
 Para ejecutar el proyecto es necesario tener un servidor web y un SGDB, en mi caso uso lo que proporciona XAMPP.
 
-Puedes descargar y pegar esta carpeta en “htdocs” la cual se encuentra dentro de la carpeta principal donde instalaste XAMPP.
+Puedes descargar y pegar esta carpeta en “htdocs” la cual se encuentra dentro de la carpeta principal donde XAMPP se encuentre instalado.
 
-*Opcional: Importar la base de datos en el SGBD de MySQL y haz los cambios necesarios adaptados a tu proyecto.
+Despues sistituye tu API KEY en el archivo api.php. Dicha API KEY la deberas generar desde tu panel de Clip como lo indica la documentación.
 
 Documentación oficial: https://developer.clip.mx/docs/sdk-de-checkout-transparente
