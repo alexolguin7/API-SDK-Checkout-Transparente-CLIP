@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pago con Tarjeta</title>
+    <title>Checkout</title>
     <script src="https://sdk.clip.mx/js/clip-sdk.js"></script>
 </head>
 <body>
 
-    <h1>Pago con Tarjeta</h1>
+    <h1>Checkout</h1>
     
     <form id="payment-form">
         <div id="checkout"></div>
